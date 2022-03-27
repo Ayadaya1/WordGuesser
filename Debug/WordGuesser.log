@@ -1,0 +1,3 @@
+﻿  WordGuesser.cpp
+Z:\WordGuesser\WordGuesser\WordGuesser.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  WordGuesser.vcxproj -> Z:\WordGuesser\WordGuesser\Debug\WordGuesser.exe
